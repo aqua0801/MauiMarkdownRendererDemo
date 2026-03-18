@@ -5,7 +5,7 @@ NuGet package.
 
 ## Screenshots
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/4432984c-2ec7-417c-b753-c40824b50122" />
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/05825eb9-c688-47f8-a775-b8d4ea2b4c81" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b18a7df0-ac78-45d7-b246-eb252fdf4df1" />
 
 ## Features Demonstrated
 - Markdown rendering (headings, lists, tables, blockquotes)
